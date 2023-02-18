@@ -1,5 +1,6 @@
 # ADSP - from LA.UM.9.6.2.r1-03600-89xx.0
 vendor/bin/adsprpcd|b736b00857d64e74a3b9be887215124d186f95d5
+vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|f060101b26d3674bb173e5fc95e118f56a8ac15d
 vendor/lib/libadsp_default_listener.so|d34ee56137899b914b70d1933d6bdcabde8d8220
 vendor/lib/libadsprpc.so|a8dcd5087ab8f2e573cf4e5838b807b66c3ec304
 vendor/lib/libfastcvadsp_stub.so|70772d0bc39617430e27a21f89fccd93cc757185
