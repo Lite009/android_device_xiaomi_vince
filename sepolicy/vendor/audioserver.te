@@ -1,3 +1,0 @@
-# ViPER4AndroidFX
-allow audioserver unlabeled:file { read write open getattr };
-get_prop(audioserver, vendor_audio_prop)
