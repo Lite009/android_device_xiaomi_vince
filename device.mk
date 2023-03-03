@@ -199,6 +199,11 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1.vendor \
     libunwind
 
+# FM
+PRODUCT_PACKAGES += \
+    RevampedFMRadio \
+    libqcomfmjni
+
 # Fwk-detect
 PRODUCT_PACKAGES += \
     libqti_vndfwk_detect \
